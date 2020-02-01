@@ -21,6 +21,7 @@ In this repository, we implement Stochastic Curiosity Maximizing Exploration (SC
 <img src="./figures/predicted_state.png" width="100%">
 <img src="./figures/acer.png" width="100%">
 <img src="./figures/scalar_influence.png" width="100%">
+
 * Mario
 <img src="./figures/mario_plot.png" width="100%">
 
