@@ -2,7 +2,7 @@
 ## Introduction
 In this repository, we implement Stochastic Curiosity Maximizing Exploration (SCME) for PyDial and Super Mario Bros. Stochastic Curiosity Maximizing Exploration (SCME) is a general model-based method to improve exploration and deal with sparse reward tasks. Our model builds latent dynamic system, predicts future latent state distribution, and calculates mutual information between predicted future latent state and latent action. Our method makes an agent have wide view like a thinking human.
 
-![image](./figures/scme_net.png/dissolve/70)
+![image](./figures/scme_net.png =70)
 
 ## Setting
 * Hardware:
