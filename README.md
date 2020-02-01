@@ -25,6 +25,6 @@ In this repository, we implement Stochastic Curiosity Maximizing Exploration (SC
 * Mario
 <img src="./figures/mario_plot.png" width="100%">
 
-## Code References
+## Code Reference
 * http://www.camdial.org/pydial/
 * https://github.com/sadeqa/Super-Mario-Bros-RL
