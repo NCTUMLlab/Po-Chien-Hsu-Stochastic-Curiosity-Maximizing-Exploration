@@ -18,7 +18,7 @@ In this repository, we implement Stochastic Curiosity Maximizing Exploration (SC
   
 ## Result
 * PyDial
-![image](./figures/predicted_state.png" width="100%)
+![image](./figures/predicted_state.png)
 <img src="./figures/acer.png" width="100%">
 <img src="./figures/scalar_influence.png" width="100%">
 * Mario
